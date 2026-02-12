@@ -1,1 +1,1 @@
-https://github.com/demQ69/posmotri_v_okno-ad
+https://github.com/demQ69/posmotri-v-okno-ad
